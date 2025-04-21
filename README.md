@@ -1,6 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2+rem&color=F77BDFBD&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%E2%8A%B9%E2%82%8A+%CB%9A%E2%80%A7%EF%B8%B5%E2%80%BF%E2%82%8A+Hello!+%E2%82%8A%E2%80%BF%EF%B8%B5%E2%80%A7+%CB%9A+%E2%82%8A%E2%8A%B9;Welcome+to+my+github++%E0%B8%85%E1%A8%90%E0%B8%85" alt="Typing SVG" /></a>    
-    ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2+rem&color=2AEAF7BD&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%E2%8A%B9%E2%82%8A+%CB%9A%E2%80%A7%EF%B8%B5%E2%80%BF%E2%82%8A+Hello!+%E2%82%8A%E2%80%BF%EF%B8%B5%E2%80%A7+%CB%9A+%E2%82%8A%E2%8A%B9;Welcome+to+my+github++%E0%B8%85%E1%A8%90%E0%B8%85" alt="Typing SVG" /></a>    
+
+    
 <pre style="width: 70%; display: inline-block;">
     I'm Damia, a 2nd-year Computer Science student ✨  
     💼 BSC @ MMU ✦︎ Data Science
