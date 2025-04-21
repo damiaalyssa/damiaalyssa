@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&letterSpacing=0.2rem&duration=3000&pause=500&color=A8DADC&center=true&multiline=true&width=435&lines=Hello++%E2%82%8D%5E.+.%5E%E2%82%8E%E2%9F%86; Nice+to+meet+you!;  " alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF88F7&width=435&lines=Hi!+%E2%82%8D%5E.+.%5E%E2%82%8E%E2%9F%86;Welcome+to+my+Github" alt="Typing SVG" /></a>
 ---
 <pre style="width: 70%; display: inline-block;">
     I'm Damia, a 2nd-year Computer Science student ✨  
