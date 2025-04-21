@@ -6,7 +6,7 @@
     I'm Damia, a 2nd-year Computer Science student ✨  
     💼 BSC @ MMU ✦︎ Data Science
     💻 Projects ✦︎ WIP... ᶻ 𝗓 𐰁 .ᐟ
-    📖 Languages ✦︎ Python ✦︎ R(soon!)
+    📖 Languages ✦︎ Python ✦︎ R  HTML ✦︎ CSS ✦︎ C++ ✦︎ SQL ✦︎ Java ✦︎ Javascript
 </pre>
 <br>
 
